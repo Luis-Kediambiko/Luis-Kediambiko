@@ -71,12 +71,12 @@
 ## 🏆 Realizations
 
 ```
-🏢 50+ Projetos Entregues com Sucesso
-👥 100+ Clientes Satisfeitos Globalmente
-⭐ 4.9/5 Avaliação Média (500+ reviews)
-🚀 99.9% Uptime em Produção
-📈 +500K Monthly Active Users
-💰 +$10M em Valor Gerado para Clientes
+🏢 30+ Projetos Entregues com Sucesso
+👥 80+ Clientes Satisfeitos
+⭐ 4.7/5 Avaliação Média (50+ reviews)
+🚀 99.5% Uptime em Produção
+📈 +100K Monthly Active Users
+💰 Kz 1.2M em Valor Gerado para Clientes
 ```
 
 ---
