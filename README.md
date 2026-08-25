@@ -40,8 +40,8 @@
 ## 📊 Principais Tecnologias
 
 ### 🔵 **Backend**
-- **Laravel 11.x** ⭐⭐⭐⭐⭐
-- **Livewire 3.x** ⭐⭐⭐⭐⭐
+- **Laravel 13.x** ⭐⭐⭐⭐⭐
+- **Livewire 4.x** ⭐⭐⭐⭐⭐
 - **PHP 8.2+** ⭐⭐⭐⭐⭐
 - REST APIs, GraphQL, WebSockets
 
@@ -72,7 +72,7 @@
 
 ```
 🏢 30+ Projetos Entregues com Sucesso
-👥 80+ Clientes Satisfeitos
+👥 20+ Clientes Satisfeitos
 ⭐ 4.7/5 Avaliação Média (50+ reviews)
 🚀 99.5% Uptime em Produção
 📈 +100K Monthly Active Users
@@ -111,7 +111,6 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@sileapp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sileapp.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
 
